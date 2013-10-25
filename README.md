@@ -12,4 +12,4 @@ If you can't push to the repo:
 
 To see this repo in action, go to:
 
-'http://slraypole1993.github.io/Habit_Tracker_2013/index.html'
+'http://slraypole1993.github.io/Habit_Tracker_2013'
