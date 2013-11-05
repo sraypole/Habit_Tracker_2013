@@ -14,3 +14,9 @@ To see this repo in action, go to:
 
 'http://slraypole1993.github.io/Habit_Tracker_2013'
 Derp
+
+#DD9842
+#F3AD4E
+#6E7077
+#B84F19
+#09182B
