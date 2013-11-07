@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Habit Tracker</title>
+	</head>
+
+	<body bgcolor="#042660">
+		<p  align="Center"><a href="www.zonya.com"><img src="http://www.zonya.com/img/diet_free_sm.gif"></a></p>
+		<p align="Center" style="font-size: xx-large; font-weight: bold; font-style: oblique; courier: ; color: #FFFFFF;">Habit Tracker</p>
+		<div align="center" style="background-color:#DD9842">
+			<button style="position:absolute" onclick="">Sign In</button>
+			<button style="position:absolute" onclick="">New User</button>
+			<p>WOOOOOOOH</p>
+			<p>YAYYYYY</p>
+		</div>
+		<div style="background-color:#B7956B">Tan!</div>
+		<div style="background-color:#6E7077">BLUE</div>
+		<div style="background-color:#09182B">BLUE AGAIN</div>
+		<div style="background-color:#8999A8">BLUE Once AGAIN</div>
+		<div style="background-color:#B89669">Another Tan!</div>
+		<div style="background-color:#B4682A">Orange!</div>
+		<div style="background-color:#968565">Greyish...blah</div>
+		<div style="background-color:#250807">Eww..brown</div>
+		<div style="background-color:#8D4F21">Another Orange!</div>
+		<div style="background-color:#FCD076">Another Tan... hmm</div>
+		<div style="background-color:#F9D586">Another one?</div>
+		<div style="background-color:#D79640">Okay tan is getting old...</div>
+		<div style="background-color:#F3AD4E">Enough with tans...this is NOT the desert(one s because you do NOT want more desert. You want more DESSERT(tan if you want a cookie)</div>
+	</body>
+	
+</html>
