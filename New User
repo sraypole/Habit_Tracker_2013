@@ -1,0 +1,20 @@
+<html>
+
+<head>
+<title>New User</title>
+</head>
+
+<body>
+  <h1>New User</h1>
+  <p>
+    <form>
+      First Name: <input type="type" name="firstname">
+      Last Name: <input type="type" name="lastname">
+      Email: <input type="text" name="email">
+      Password: <input type="text" name="password">
+      <input type="submit">
+    </form>
+  </p>
+</body>
+
+</html>
