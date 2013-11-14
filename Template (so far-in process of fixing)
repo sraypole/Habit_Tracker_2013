@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Habit Tracker</title>
+
+<style type="text/css">
+html
+{
+min-height: 100%
+}
+
+.headDiv
+{
+
+background-image: -moz-linear-gradient(top, #FFF387 0%, #FF7C17 100%); /*firefox*/
+background-image: linear-gradient(to bottom, #FFF387 0%, #FF7C17 100%); /*I.E.*/
+background-image: -ms-linear-gradient(top, #FFF387 0%, #FF7C17 100%); /*I.E.10*/
+background-image: -o-linear-gradient(top, #FFF387 0%, #FF7C17 100%); /*Opera*/ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(, #FFF387 ), color-stop(1, #FF7C17 )); /*Safari/Chrome 10*/
+background-image: -webkit-linear-gradient(top, #FFF387 0%, #FF7C17 100%); /* Chrome 11+ */
+}
+
+.contentDiv
+{
+align:center;
+margin-left:10%;
+margin-right:10%;
+min-height:60%;
+}
+
+body
+{
+height:100%;
+margin:0;
+}
+
+ul
+{
+	margin:0px;
+	padding:0px;
+	padding-top:20px;
+}
+
+a
+{
+	background-color:#3873E0;
+	border:thick;
+	border-color:black;
+	color: white;
+	
+}
+
+</style>
+
+<div class="headDiv">
+	<img src="otherLogo.png"></img>
+</div>
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="calendar.html">Calendar</a></li>
+</ul>
+
+</head>
+
+<body>
+
+
+<div class="contentDiv">
+	<p align="center">Content</p>
+</div>
+
+ </body>
+ </html>
