@@ -1,51 +1,43 @@
-Habit_Tracker_2013
-==================
+CakePHP
+=======
 
-This is cool
+[![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
 
-If you can't push to the repo:
+CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
+Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
-1 move into your local clone
+Some Handy Links
+----------------
 
-2 run 'git remote set-url origin git@github.com:slraypole1993/Habit_Tracker_2013.git'
+[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
 
+[CookBook](http://book.cakephp.org) - THE CakePHP user documentation; start learning here!
 
-To see this repo in action, go to:
+[API](http://api.cakephp.org) - A reference to CakePHP's classes
 
-'http://slraypole1993.github.io/Habit_Tracker_2013'
-Derp
+[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
 
-#DD9842
-#F3AD4E
-#6E7077
-#B84F19
-#09182B
+[The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
 
+[Community Center](http://community.cakephp.org) - A source for everything community related
 
-Set 1:
-	blue:	    #041D50
-		        #042660
-	tan:	    #B89669
-	orange:	  #B4682A
-	greyish:  #968565
+[Training](http://training.cakephp.org) - Join a live session and get skilled with the framework
 
-Set 2:
-	tan:	    #B7956B
-	brown:	  #250807
-	red:	    #6D070D
-		        #8F0D17
-	orange:	  #8D4F21
+[CakeFest](http://cakefest.org) - Don't miss our annual CakePHP conference
 
-Set 3:
-	tan:	    #FCD076
-		        #F9D586
-		        #D79640
-	blue:	    #8999A8
-	red:	    #B91B1D
+[Cake Software Foundation](http://cakefoundation.org) - Promoting development related to CakePHP
 
-Set 4:
-	tan:	    #DD9842
-	        	#F3AD4E
-	blue:	    #6E7077
-		        #09182B
-	red:	    #B83F19
+Get Support!
+------------
+
+[#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake
+
+[Google Group](https://groups.google.com/group/cake-php) - Community mailing list and forum
+
+[GitHub Issues](https://github.com/cakephp/cakephp/issues) - Got issues? Please tell us!
+
+[Roadmaps](https://github.com/cakephp/cakephp/wiki#roadmaps) - Want to contribute? Get involved!
+
+[![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
+
+![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
