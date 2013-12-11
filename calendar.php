@@ -117,7 +117,6 @@ for ($list_day = 1; $list_day <= $days_in_month; $list_day++)
 	
 	<td width="120" height="80" background="lock.png" valign="top">
 	
-	<!--<a href="test.html"><?php echo '<div class="day-number">'.$list_day.'</div>';?></a>-->
 	<?php echo '<div class="day-number">'.$list_day.'</div>';?>
 	</td>
 	
@@ -136,7 +135,7 @@ for ($list_day = 1; $list_day <= $days_in_month; $list_day++)
 	
 	<td width="120" height="80" background="blank.png" valign="top">
 	
-	<a href="test.php?ID=<?php echo $list_day; ?>"><?php echo '<div class="day-number">'.$list_day.'</div>';?></a>
+	<a href="test.php?ID=<?php echo date('m'); echo $list_day; echo date('Y'); ?>"><?php echo '<div class="day-number">'.$list_day.'</div>';?></a>
 	</td>
 	
 	</tr>
@@ -145,8 +144,6 @@ for ($list_day = 1; $list_day <= $days_in_month; $list_day++)
 	<?php 
 
 	}
-		//Add in number for day
-		//echo str_repeat('<p> </p>',2);
 		
 		echo '</td>';
 	
